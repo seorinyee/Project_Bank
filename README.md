@@ -1,6 +1,3 @@
-
-<div align = "middle"> <H2> http:/✧/bank.project.c.com </H2> </div> 
-
 ## 🪙 Sistema de Gestão Bancária
 
 Este projeto é um sistema simples para a gestão de contas bancárias, desenvolvido em C. Ele permite realizar operações básicas como cadastro de clientes, consultas, transações e geração de extratos. O sistema utiliza arquivos binários para armazenar e gerenciar os dados dos clientes.
