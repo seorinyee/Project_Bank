@@ -1,5 +1,5 @@
 <div align = "middle"> <H2> http:/✧/bank.project.c.com </H2> </div> 
-<img align = "right" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-37-55_512.gif" width="100" height = "100" alt="bank">
+<img align = "right" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-37-55_512.gif" width="50" height = "50" alt="bank">
 
 ## ₊˚‧︵‿꒰୨ Sistema de Gestão Bancária
 
